@@ -1,6 +1,7 @@
-## NCBIoneoff-tools
-### minimally tested uses at your own risk
+# NCBIoneoff-tools
+## minimally tested uses at your own risk
 
+### pmid2csv
 This simple do-hicky does the following:
    * Read a simple text file containing pubmed ID's
    * Retrieve the xml data affiliated with the PMID's from NCBI's pubmed via the api
