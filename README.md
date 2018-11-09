@@ -12,7 +12,7 @@ This simple do-hicky does the following:
      **The windows executable will run on an internet connected Window's 10.**  
      For most issues it will *not* exit gracefully  
 
-## To use the executable
+#### To use the executable
 open up a console, the windows command prompt will work
 use the command  
 `> pmid2csv.exe -i <pmids.txt> -o <results.csv> `
@@ -21,7 +21,7 @@ use the command
 or for help
 `pmid2csv.exe -h`
 
-### Notes:
+#### Notes:
 not yet tested with api-keys
 input should handle all whitespace seperated PMIDS, however so far it has only been tested on one per line
 12345678 PMID12345678 PMID:12345678
