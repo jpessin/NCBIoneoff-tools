@@ -23,8 +23,10 @@ or for help
 
 #### Notes:
 not yet tested with api-keys
-input should handle all whitespace seperated PMIDS, however so far it has only been tested on one per line
-12345678 PMID12345678 PMID:12345678
+input should handle all whitespace seperated PMIDS, however so far it has only been tested on one per line with the following formats
+12345678
+PMID12345678
+PMID:12345678
 
-they python script was writen for python 3 (3.5) and depends on Beautifulsoup4 (bs4) and lxml.
+They python script was writen for python 3 (3.5) and depends on Beautifulsoup4 (bs4) and lxml.
 it will probably work with 3.4+ 
